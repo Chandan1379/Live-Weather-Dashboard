@@ -1,50 +1,37 @@
-📊 Live Weather Dashboard
-• This Power BI dashboard provides a visual overview of live weather data from various cities. It helps users quickly understand weather patterns, temperature trends, and other key metrics in a clear and interactive way.
+# 🌤️ Live Weather Dashboard
 
+This Power BI dashboard visualizes live weather data from multiple cities. It provides a quick and clear overview of weather conditions, helping users monitor patterns like temperature, humidity, and wind speed in real time.
 
-🔍 Project Overview
-• File: Live_Weather_Dashboard.pbix
+---
 
-• Tool Used: Microsoft Power BI
+# 🔧 Tools Used
 
-• Type: Data Visualization Dashboard
+- Power BI
+- OpenWeatherMap API (or your data source)
+- Data transformation using Power Query
+- DAX (Data Analysis Expressions)
 
-• Data Source: Weather data (API)
+---
 
+# 📌 What I Did
 
-• Purpose: 
-- To analyze real-time weather conditions across different locations and present insights in a simple, visual format.
+1. Collected and connected live weather data  
+2. Transformed and cleaned the data using Power Query  
+3. Built interactive visuals (temperature, humidity, wind, etc.)  
+4. Added slicers and filters for user-friendly navigation  
+5. Designed a clean, responsive layout for easy analysis  
 
+---
 
-✨ Key Features
-🌡️ Current Temperature Display
+# 📈 Key Insights
 
-☁️ Weather Conditions (Clear, Cloudy, Rainy, etc.)
+- View weather conditions for multiple cities in real time  
+- Compare temperatures, humidity, and wind speed side-by-side  
+- Easily track changes and spot unusual patterns
 
-📍 Location-wise Data
+---
 
-📈 Dynamic Charts and KPIs
+# 👤 Author
 
-📅 Date Selection & Filtering
-
-
-🧠 Learnings & Skills Applied
-• Power BI visuals (Cards, Tables, Bar Charts, Maps)
-
-• Data transformation using Power Query
-
-• DAX formulas for calculated metrics
-
-• Dashboard design best practices
-
-
-🚀 How to View the Dashboard
-
-• To open and explore the dashboard:
-
-- Download Live_Weather_Dashboard.pbix.
-
-- Open it using Microsoft Power BI Desktop (free to download from Microsoft).
-
-- Interact with the visuals and slicers.
-
+**Chandan Kumar**  
+[LinkedIn](www.linkedin.com/in/chandan-kumar-professional)
